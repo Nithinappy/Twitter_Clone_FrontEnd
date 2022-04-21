@@ -1,0 +1,38 @@
+[
+  {
+    "name": "CreatePost",
+    "path": "/CreatePost",
+    "component": "D:\\\\Projects\\\\Twitter_Clone_Frontend\\\\pages\\\\CreatePost.vue",
+    "chunkName": "pages/CreatePost"
+  },
+  {
+    "name": "Posts",
+    "path": "/Posts",
+    "component": "D:\\\\Projects\\\\Twitter_Clone_Frontend\\\\pages\\\\Posts.vue",
+    "chunkName": "pages/Posts"
+  },
+  {
+    "name": "Register",
+    "path": "/Register",
+    "component": "D:\\\\Projects\\\\Twitter_Clone_Frontend\\\\pages\\\\Register.vue",
+    "chunkName": "pages/Register"
+  },
+  {
+    "name": "UserHome",
+    "path": "/UserHome",
+    "component": "D:\\\\Projects\\\\Twitter_Clone_Frontend\\\\pages\\\\UserHome.vue",
+    "chunkName": "pages/UserHome"
+  },
+  {
+    "name": "UserProfile",
+    "path": "/UserProfile",
+    "component": "D:\\\\Projects\\\\Twitter_Clone_Frontend\\\\pages\\\\UserProfile.vue",
+    "chunkName": "pages/UserProfile"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Projects\\\\Twitter_Clone_Frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
