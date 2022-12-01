@@ -13,16 +13,17 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet',  href: '/css/bootstrap.min.css' },
-      { rel: 'stylesheet',  href: '/css/custom.css' }
+      { rel: 'stylesheet', href: '/css/bootstrap.min.css' },
+      { rel: 'stylesheet', href: '/css/custom.css' },
     ],
     script: [
       {
         src: '/js/bootstrap.bundle.min.js',
-        type: 'text/javascript'
-       },{
-       src:'https://kit.fontawesome.com/a076d05399.js'
-       }
+        type: 'text/javascript',
+      },
+      {
+        src: 'https://kit.fontawesome.com/a076d05399.js',
+      },
     ],
   },
 
@@ -43,9 +44,11 @@ export default {
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
   ],
-  router: [{
-    middleware: 'route-guard'
-  }],
+  router: [
+    {
+      middleware: 'route-guard',
+    },
+  ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
@@ -55,4 +58,7 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
+  generate: {
+    fallback: true,
+  },
 }
