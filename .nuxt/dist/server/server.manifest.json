@@ -1,0 +1,35 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/app-header.js": "components/app-header.js",
+    "components/app-header1.js": "components/app-header1.js",
+    "components/error-msg.js": "components/error-msg.js",
+    "components/home.js": "components/home.js",
+    "components/user-header.js": "components/user-header.js",
+    "components/user-login.js": "components/user-login.js",
+    "components/user-registration.js": "components/user-registration.js",
+    "pages/CreatePost.js": "pages/CreatePost.js",
+    "pages/Posts.js": "pages/Posts.js",
+    "pages/Register.js": "pages/Register.js",
+    "pages/UserHome.js": "pages/UserHome.js",
+    "pages/UserProfile.js": "pages/UserProfile.js",
+    "pages/index.js": "pages/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/app-header.js": "components/app-header.js.map",
+    "components/app-header1.js": "components/app-header1.js.map",
+    "components/error-msg.js": "components/error-msg.js.map",
+    "components/home.js": "components/home.js.map",
+    "components/user-header.js": "components/user-header.js.map",
+    "components/user-login.js": "components/user-login.js.map",
+    "components/user-registration.js": "components/user-registration.js.map",
+    "pages/CreatePost.js": "pages/CreatePost.js.map",
+    "pages/Posts.js": "pages/Posts.js.map",
+    "pages/Register.js": "pages/Register.js.map",
+    "pages/UserHome.js": "pages/UserHome.js.map",
+    "pages/UserProfile.js": "pages/UserProfile.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
