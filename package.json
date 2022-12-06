@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-   "dev": "nuxt",
+  "dev": "nuxt",
     "build": "nuxt build",
-    "generate": "nuxt generate",
-    "start": "next start "
+    "start": "nuxt start",
+    "generate": "nuxt generate"
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.13.6",
